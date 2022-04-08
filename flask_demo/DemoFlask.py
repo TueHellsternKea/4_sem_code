@@ -12,7 +12,7 @@ app = Flask(__name__)
 # the associated function.
 @app.route('/')
 def index():
-    return 'Index Page'
+    return 'Index Page - Start page'
 
 @app.route('/hello')
 def hello():
