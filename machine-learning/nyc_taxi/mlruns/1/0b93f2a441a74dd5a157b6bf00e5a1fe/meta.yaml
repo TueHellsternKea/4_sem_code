@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/tuehe/Documents/GitHub/4_sem_code/machine-learning/nyc_taxi/mlruns/1/0b93f2a441a74dd5a157b6bf00e5a1fe/artifacts
+end_time: 1667824591902
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0b93f2a441a74dd5a157b6bf00e5a1fe
+run_name: Session Initialized a4f7
+run_uuid: 0b93f2a441a74dd5a157b6bf00e5a1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667824591602
+status: 3
+tags: []
+user_id: tuehe
