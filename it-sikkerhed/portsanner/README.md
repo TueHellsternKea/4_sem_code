@@ -19,3 +19,9 @@ You have to install
   or
  
   python3 fast_port_scanner.py 192.168.1.1 --ports 1-1000
+  
+  ## Python file
+  Link to code files: 
+  
+  - ![](./fast_port_scanner.py)
+  - ![](./port_scanner.py)
