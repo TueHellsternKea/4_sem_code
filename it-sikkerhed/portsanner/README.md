@@ -15,4 +15,7 @@ You have to install
  Like this
  
   python3 fast_port_scanner.py 94.18.243.162 --ports 1-1000
+  
+  or
  
+  python3 fast_port_scanner.py 192.168.1.1 --ports 1-1000
